@@ -1,0 +1,27 @@
+{
+  "name": "toks_desalu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desalu/toks_desalu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desalu/toks_desalu/issues"
+  },
+  "homepage": "https://github.com/desalu/toks_desalu#readme",
+  "dependencies": {
+    "animate.css": "^4.1.0",
+    "animatejs": "^1.0.1",
+    "foundation-sites": "^6.6.3",
+    "jquery": "^3.5.1",
+    "motion-ui": "^2.0.3",
+    "what-input": "^5.2.10"
+  }
+}
