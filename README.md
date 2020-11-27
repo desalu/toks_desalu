@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/desalu](https://github.com/desalu)
 
-- 📫 How to reach me **desalu.developer**
+- 📫 How to reach me **desalu.developer@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
