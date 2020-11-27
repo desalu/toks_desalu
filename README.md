@@ -1,6 +1,6 @@
-# Profile
+# Portfolio
 
-An improved profile from previous pre-work project. This project demostrated the use of HTML, CSS, and JS.
+An improved portfolio from previous the pre-work project. This project demostrated the use of HTML, CSS, and JS.
 
 
 ## License
